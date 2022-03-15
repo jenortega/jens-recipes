@@ -20,16 +20,25 @@ h3 {
 }
 
 .recipe-title {
-    color: #9ADCFF;
+    color: #77ccfa;
 }
 
 h3 {
-    color: #FFB2A6;
-    font-family: 'Open Sans', sans-serif;
+    color: #fd9c8e;
 }
 
+h3,
 a,
 p,
 li {
     font-family: 'Open Sans', sans-serif;
+}
+
+img {
+    height: 500px;
+    width: 500px;
+}
+
+html {
+    background-color: #fffde1;
 }
