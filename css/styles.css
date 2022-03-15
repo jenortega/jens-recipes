@@ -1,0 +1,35 @@
+/* 
+Colors to use:
+blue: #9ADCFF
+yellow: #FFF89A
+orange: #FFB2A6
+pink: #FF8AAE
+
+other:
+green: #c0eb7b
+*/
+
+.home-title {
+    color: #FF8AAE;
+}
+
+.home-title,
+.recipe-title,
+h3 {
+    font-family: 'Handlee', cursive;
+}
+
+.recipe-title {
+    color: #9ADCFF;
+}
+
+h3 {
+    color: #FFB2A6;
+    font-family: 'Open Sans', sans-serif;
+}
+
+a,
+p,
+li {
+    font-family: 'Open Sans', sans-serif;
+}
